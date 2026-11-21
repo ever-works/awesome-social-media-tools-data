@@ -1,0 +1,12 @@
+name: "Meltwater"
+description: "Meltwater is a media intelligence and social listening platform that monitors news and social media for brand mentions and trends. It provides analytics, reporting, and media database access for PR professionals."
+source_url: "https://meltwater.com/"
+category: "Social Listening"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "listening"
+icon_url: "https://icons.duckduckgo.com/ip3/meltwater.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://meltwater.com/>\n"
+updated_at: "2026-11-21 07:57"

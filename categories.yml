@@ -1,0 +1,12 @@
+- id: scheduling-and-publishing
+  name: "Scheduling & Publishing"
+- id: social-listening
+  name: "Social Listening"
+- id: social-analytics
+  name: "Social Analytics"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: ai-social-content
+  name: "AI Social Content"
+- id: agency-tools
+  name: "Agency Tools"

@@ -1,0 +1,24 @@
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: scheduling
+  name: "Scheduling"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: agency
+  name: "Agency"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: analytics
+  name: "Analytics"
+- id: listening
+  name: "Listening"
+- id: ai-powered
+  name: "AI-Powered"

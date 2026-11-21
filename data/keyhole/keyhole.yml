@@ -1,0 +1,12 @@
+name: "Keyhole"
+description: "Keyhole is a social media analytics and listening tool that tracks hashtags, URLs, and keywords across platforms. It provides real-time data, influencer tracking, and campaign reporting."
+source_url: "https://keyhole.co/"
+category: "Social Analytics"
+tags:
+  - "paid"
+  - "api"
+  - "analytics"
+  - "listening"
+icon_url: "https://icons.duckduckgo.com/ip3/keyhole.co.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://keyhole.co/>\n"
+updated_at: "2026-11-21 07:57"

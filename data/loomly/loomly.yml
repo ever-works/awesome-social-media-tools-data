@@ -1,0 +1,11 @@
+name: "Loomly"
+description: "Loomly is a social media calendar tool that helps teams create, schedule, and publish posts with built-in optimization tips. It includes approval workflows, post previews, and performance analytics."
+source_url: "https://loomly.com/"
+category: "Scheduling & Publishing"
+tags:
+  - "paid"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/loomly.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://loomly.com/>\n"
+updated_at: "2026-11-21 07:57"

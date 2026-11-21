@@ -1,0 +1,12 @@
+name: "Sendible"
+description: "Sendible is a social media management platform built for agencies, offering scheduling, monitoring, and reporting across multiple client accounts. It includes white-label reporting and team collaboration tools."
+source_url: "https://sendible.com/"
+category: "Agency Tools"
+tags:
+  - "paid"
+  - "agency"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/sendible.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://sendible.com/>\n"
+updated_at: "2026-11-21 07:57"

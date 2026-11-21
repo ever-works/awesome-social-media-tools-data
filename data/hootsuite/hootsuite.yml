@@ -1,0 +1,12 @@
+name: "Hootsuite"
+description: "Hootsuite is a comprehensive social media management platform offering scheduling, monitoring, and analytics for teams and enterprises. It supports numerous social networks and provides advanced reporting and collaboration features."
+source_url: "https://hootsuite.com/"
+category: "Scheduling & Publishing"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/hootsuite.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://hootsuite.com/>\n"
+updated_at: "2026-11-21 07:57"

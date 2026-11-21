@@ -1,0 +1,12 @@
+name: "Publer"
+description: "Publer is a social media scheduling tool that allows users to create, organize, and publish posts across multiple networks. It includes features for bulk scheduling, recycling content, and basic analytics."
+source_url: "https://publer.io/"
+category: "Scheduling & Publishing"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/publer.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://publer.io/>\n"
+updated_at: "2026-11-21 07:57"

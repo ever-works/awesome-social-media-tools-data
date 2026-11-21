@@ -1,0 +1,11 @@
+name: "CoSchedule"
+description: "CoSchedule is a marketing calendar and social media scheduling platform that integrates content planning with publishing. It is aimed at marketing teams managing campaigns across blogs and social networks."
+source_url: "https://coschedule.com/"
+category: "Scheduling & Publishing"
+tags:
+  - "paid"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/coschedule.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://coschedule.com/>\n"
+updated_at: "2026-11-21 07:57"

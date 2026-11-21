@@ -1,0 +1,12 @@
+name: "Postiz"
+description: "Postiz is an open-source social media scheduling and management tool that supports multiple platforms. It allows self-hosting and provides features for content planning, publishing, and basic analytics."
+source_url: "https://postiz.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/postiz.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://postiz.com/>\n- Repository: <https://github.com/postizhq/postiz>\n\nLicense: AGPL-3.0.\n"
+updated_at: "2026-11-21 07:57"

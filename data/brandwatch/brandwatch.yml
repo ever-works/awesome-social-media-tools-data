@@ -1,0 +1,12 @@
+name: "Brandwatch"
+description: "Brandwatch is an enterprise social intelligence platform for listening, analytics, and audience insights. It analyzes online conversations and provides data for marketing, research, and brand strategy."
+source_url: "https://brandwatch.com/"
+category: "Social Analytics"
+tags:
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/brandwatch.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://brandwatch.com/>\n"
+updated_at: "2026-11-21 07:57"

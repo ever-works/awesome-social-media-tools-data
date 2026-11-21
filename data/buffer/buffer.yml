@@ -1,0 +1,12 @@
+name: "Buffer"
+description: "Buffer is a social media management platform for scheduling posts, analyzing performance, and managing engagement across multiple networks. It serves individuals and small teams with a straightforward publishing workflow."
+source_url: "https://buffer.com/"
+category: "Scheduling & Publishing"
+tags:
+  - "free-plan"
+  - "freemium"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/buffer.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://buffer.com/>\n"
+updated_at: "2026-11-21 07:57"
