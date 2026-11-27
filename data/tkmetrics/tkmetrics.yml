@@ -1,0 +1,10 @@
+name: "TKMetrics"
+description: "TKMetrics is a TikTok analytics site with creator stats, hashtag trends and earnings estimates built from public TikTok data, showing the method behind each number. Profile lookups and comparisons are free; paid plans from $49/month add creator search with contact details, filters and CSV export."
+source_url: "https://tkmetrics.com/"
+category: "Social Analytics"
+tags:
+  - "freemium"
+  - "analytics"
+  - "tiktok"
+icon_url: "https://icons.duckduckgo.com/ip3/tkmetrics.com.ico"
+markdown: "## Pricing\n\nFreemium. Free profile lookups and side-by-side comparisons; paid plans from $49/month for creator search with contact details and CSV export.\n\n## Links\n\n- Website: <https://tkmetrics.com/>\n"
